@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Test | Mahendra's Hacks]]></title>
+  <link href="http://mahendra.github.io/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://mahendra.github.io/"/>
+  <updated>2013-11-05T06:22:00+05:30</updated>
+  <id>http://mahendra.github.io/</id>
+  <author>
+    <name><![CDATA[Mahendra Laxaman]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Testing post]]></title>
+    <link href="http://mahendra.github.io/blog/2013/11/03/testing-post/"/>
+    <updated>2013-11-03T15:11:00+05:30</updated>
+    <id>http://mahendra.github.io/blog/2013/11/03/testing-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

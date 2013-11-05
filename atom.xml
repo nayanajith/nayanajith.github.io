@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://ynayanajith.github.io/atom.xml" rel="self"/>
-  <link href="http://ynayanajith.github.io/"/>
-  <updated>2013-11-02T22:52:30+05:30</updated>
-  <id>http://ynayanajith.github.io/</id>
+  <title><![CDATA[Mahendra's Hacks]]></title>
+  <link href="http://mahendra.github.io/atom.xml" rel="self"/>
+  <link href="http://mahendra.github.io/"/>
+  <updated>2013-11-05T06:22:00+05:30</updated>
+  <id>http://mahendra.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mahendra Laxaman]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://mahendra.github.io/blog/2013/11/05/hello-world/"/>
+    <updated>2013-11-05T06:19:00+05:30</updated>
+    <id>http://mahendra.github.io/blog/2013/11/05/hello-world</id>
+    <content type="html"><![CDATA[<h1>hello world</h1>
+
+<p>this is a testing page</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test page]]></title>
+    <link href="http://mahendra.github.io/blog/2013/11/03/test-page/"/>
+    <updated>2013-11-03T18:31:00+05:30</updated>
+    <id>http://mahendra.github.io/blog/2013/11/03/test-page</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Testing post]]></title>
+    <link href="http://mahendra.github.io/blog/2013/11/03/testing-post/"/>
+    <updated>2013-11-03T15:11:00+05:30</updated>
+    <id>http://mahendra.github.io/blog/2013/11/03/testing-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
